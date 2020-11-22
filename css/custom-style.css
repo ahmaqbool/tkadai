@@ -7591,3 +7591,31 @@ img.up-logo {
     margin-top:160px !important;
   }
 }
+
+.landing-section .video-wrapper .video-overlay {
+	opacity: .5;
+}
+.landing-section .content-block .icon-text h1{
+	color:#fff;
+}
+.landing-section .content-block .icon-scooter{
+	fill: #fff;
+}
+@media screen and (max-width: 480px) {
+	.landing-section .content-block{
+		bottom: auto;
+		top: 0;
+		transform: none;
+	}
+	.landing-section .content-block .icon-text h1{
+		font-size: 14px;
+	}
+	.landing-section .content-block .icon-text{
+		margin-bottom: 10px;
+	}
+	.landing-section .content-block .icon-scooter {
+		margin-top: 15px;
+		width: 64px;
+		height: 46px;
+	}
+}
