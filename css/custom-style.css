@@ -4014,8 +4014,8 @@ select {
     display: block;
     margin-right: 2.48041%;
     width: 6.05963%;
-    padding-left: 39px;
-    width: 15%; }
+    padding-left: 0px;
+    width: 20%; }
     .footer .follow:last-child {
       margin-right: 0; }
     @media screen and (min-width: 993px) and (max-width: 1170px) {
