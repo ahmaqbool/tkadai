@@ -4063,6 +4063,9 @@ select {
       .footer .follow .footer-social li .icon-facebook {
         width: 24px;
         height: 24px; }
+		.footer .follow .footer-social li .icon-instagram {
+        width: 24px;
+        height: 24px; }
       .footer .follow .footer-social li .icon-twitter {
         width: 24px;
         height: 24px; }
@@ -7618,4 +7621,14 @@ img.up-logo {
 		width: 64px;
 		height: 46px;
 	}
+}
+
+.subcategory-name--secondary {
+    color: #4d4b4b;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.mt-60 {
+	margin-top:60px;
 }
