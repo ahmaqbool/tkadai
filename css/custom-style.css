@@ -4717,24 +4717,24 @@ select {
 .page .banner {
   position: relative;
   padding: 25% 0;
-  background-image: url("../images/banner-technology.jpg");
+  background-image: url("../images/aboutus-banner.svg");
   background-size: cover;
   background-repeat: no-repeat; }
   .page .banner.banner-careers {
-    background-image: url("../images/new/careers-banner.jpg"); }
+    background-image: url("../images/new/aboutus-banner.svg"); }
   .page .banner.banner-chai-work {
-    background-image: url("../images/new/coc-banner.jpg"); }
+    background-image: url("../images/new/aboutus-banner.svg"); }
   .page .banner.banner-about {
-    background-image: url("../images/about-banner.png"); }
+    background-image: url("../images/aboutus-banner.svg"); }
   .page .banner.banner-contact {
-    background-image: url("../images/new/contact-us-banner.jpg"); }
+    background-image: url("../images/new/aboutus-banner.svg"); }
   .page .banner.banner-bulk-order {
-    background-image: url("../images/new/subchai-banner.jpg"); }
+    background-image: url("../images/new/aboutus-banner.svg"); }
   .page .banner.banner-team {
-    background-image: url("../images/new/our-team-bannerc4ca.jpg?1"); }
+    background-image: url("../images/new/aboutus-banner.svg"); }
   .page .banner.banner-privacy {
     padding: 50px 0 150px;
-    background-image: url("../images/about-banner.png");
+    background-image: url("../images/aboutus-banner.svg");
     background-position-y: -250px; }
     .page .banner.banner-privacy .banner-overlay {
       background-color: rgba(0, 0, 0, 0.75); }
@@ -7632,3 +7632,5 @@ img.up-logo {
 .mt-60 {
 	margin-top:60px;
 }
+
+.hightlight{color: #ffcf1e;}
