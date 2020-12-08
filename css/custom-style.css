@@ -360,6 +360,19 @@ html {
 
 *, *::after, *::before {
   box-sizing: inherit; }
+  
+ @font-face {
+    font-family: 'Edwardian Script ITC';
+    src: url('../fonts/EdwardianScriptITC.eot');
+    src: url('../fonts/EdwardianScriptITC.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/EdwardianScriptITC.woff2') format('woff2'),
+        url('../fonts/EdwardianScriptITC.woff') format('woff'),
+        url('../fonts/EdwardianScriptITC.ttf') format('truetype'),
+        url('../fonts/EdwardianScriptITC.svg#EdwardianScriptITC') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
 @font-face {
   font-family: Rupee-Foradian;
@@ -4717,7 +4730,7 @@ select {
 .page .banner {
   position: relative;
   padding: 25% 0;
-  background-image: url("../images/aboutus-banner.svg");
+  background-image: url("../images/new/aboutus-banner.svg");
   background-size: cover;
   background-repeat: no-repeat; }
   .page .banner.banner-careers {
@@ -4725,7 +4738,7 @@ select {
   .page .banner.banner-chai-work {
     background-image: url("../images/new/aboutus-banner.svg"); }
   .page .banner.banner-about {
-    background-image: url("../images/aboutus-banner.svg"); }
+    background-image: url("../images/new/aboutus-banner.svg"); }
   .page .banner.banner-contact {
     background-image: url("../images/new/aboutus-banner.svg"); }
   .page .banner.banner-bulk-order {
@@ -4734,7 +4747,7 @@ select {
     background-image: url("../images/new/aboutus-banner.svg"); }
   .page .banner.banner-privacy {
     padding: 50px 0 150px;
-    background-image: url("../images/aboutus-banner.svg");
+    background-image: url("../images/new/aboutus-banner.svg");
     background-position-y: -250px; }
     .page .banner.banner-privacy .banner-overlay {
       background-color: rgba(0, 0, 0, 0.75); }
@@ -7634,3 +7647,4 @@ img.up-logo {
 }
 
 .hightlight{color: #ffcf1e;}
+
