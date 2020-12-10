@@ -1,6 +1,6 @@
 <!-- Google Analytics -->
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-XXXXX-Y', 'auto');
+ga('create', 'UA-185276594-Y', 'auto');
 ga('send', 'pageview');
 
 function includeJs(jsFilePath) {
