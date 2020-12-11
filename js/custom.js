@@ -1,16 +1,4 @@
-<!-- Google Analytics -->
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-185276594-Y', 'auto');
-ga('send', 'pageview');
-
-function includeJs(jsFilePath) {
-    var js = document.createElement("script");
-
-    js.type = "text/javascript";
-    js.src = jsFilePath;
-
-    document.body.appendChild(js);
-    console.log("agile new url");
-}
-
-includeJs("https://www.google-analytics.com/analytics.js")
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2TBHBS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
